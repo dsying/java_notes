@@ -1,4 +1,4 @@
-package Spring.c_001_DI.T02_HowToCreateBean.ComponentScanAndAutowired;
+package Spring.c_001_DI.T02_装配bean.ComponentScanAndAutowired;
 
 import org.springframework.stereotype.Component;
 

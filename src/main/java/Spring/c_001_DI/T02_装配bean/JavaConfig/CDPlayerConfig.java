@@ -1,4 +1,4 @@
-package Spring.c_001_DI.T02_HowToCreateBean.JavaConfig;
+package Spring.c_001_DI.T02_装配bean.JavaConfig;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

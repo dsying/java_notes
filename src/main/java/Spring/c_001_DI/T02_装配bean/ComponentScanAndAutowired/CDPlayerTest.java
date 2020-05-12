@@ -1,4 +1,4 @@
-package Spring.c_001_DI.T02_HowToCreateBean.JavaConfig;
+package Spring.c_001_DI.T02_装配bean.ComponentScanAndAutowired;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
